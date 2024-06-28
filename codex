@@ -1,4 +1,4 @@
-#C0d3x_2.0.py
+#C0d3x_2.0.py 91550550-ede6-41af-a183-a81c3b062b8b
 try:
     import subprocess, platform
     subprocess.run('pip install requests --upgrade', shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
